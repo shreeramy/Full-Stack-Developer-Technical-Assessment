@@ -1,8 +1,8 @@
-# Kids Needs App
+# Document App
 
 ## Installation
 
-To install and set up the Kids Needs App, follow these steps:
+To install and set up the Document App, follow these steps:
 Clone the repository: 
 ``` sh
 git clone <repository_url>
