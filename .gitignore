@@ -10,17 +10,6 @@
 .vscode/
 __pycache__/
 
-# React (frontend)
-node_modules/
-build/
-public/*.cache
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-package-lock.json
-yarn.lock
-.eslintcache
-
 # Django (backend)
 # Migrations
 migrations/
@@ -66,3 +55,15 @@ settings_secret.py
 temp/
 *.tmp
 ~$*
+
+# .gitignore for a project using React (frontend) and Django (backend)
+# React (frontend)
+node_modules/
+build/
+public/*.cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.eslintcache
